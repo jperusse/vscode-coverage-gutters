@@ -6,6 +6,10 @@
     "search.exclude": {
         "out": true // set this to false to include "out" folder in search results
     },
+    //"python.analysis.extraPaths": [
+    //     "./example/python/python/tests",
+    //     "./example/python/python/foobar",
+    //],
     //"coverage-gutters.showGutterCoverage": true,
     //"coverage-gutters.showLineCoverage": true,
 }

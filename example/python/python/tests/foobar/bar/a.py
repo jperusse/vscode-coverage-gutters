@@ -1,5 +1,8 @@
+""" Test Module """
+
 def func(number):
-    """test function"""
+    """ Increment a number when it's 4 or 5 """
+
     if number == 4:
         return number + 1
     elif number == 5:
