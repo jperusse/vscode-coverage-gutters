@@ -6,6 +6,11 @@
     "search.exclude": {
         "out": true // set this to false to include "out" folder in search results
     },
+    //"python.testing.pytestArgs": [
+    //    "example"
+    //],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
     //"python.analysis.extraPaths": [
     //     "./example/python/python/tests",
     //     "./example/python/python/foobar",
